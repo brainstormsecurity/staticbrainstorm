@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brainstorm Security - Social Engineering and Physical Penetration testing experts</title>
+    <link>https://brainstormsecurity.github.io/static/de/</link>
+    <description>Recent content on Brainstorm Security - Social Engineering and Physical Penetration testing experts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>Design von [Themefisher] Entwickelt von [Gethugothemes]</copyright>
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate>
+    
+	<atom:link href="https://brainstormsecurity.github.io/static/de/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dies ist eine deutsche Testseite</title>
+      <link>https://brainstormsecurity.github.io/static/de/blog/post-1.html</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://brainstormsecurity.github.io/static/de/blog/post-1.html</guid>
+      <description>Exemplarische Überschrift Hier ist ein Beispiel für eine Überschrift. Sie können diese Überschrift verwenden, indem Sie den Markdownify-Regeln folgen.</description>
+    </item>
+    
+  </channel>
+</rss>

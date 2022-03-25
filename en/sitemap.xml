@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://brainstormsecurity.github.io/static/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brainstormsecurity.github.io/static/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/blog/post-1.html</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://brainstormsecurity.github.io/static/de/blog/post-1.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brainstormsecurity.github.io/static/blog/post-1.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/blog/post-4.html</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/blog/post-5.html</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/blog/post-6.html</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/blog.html</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://brainstormsecurity.github.io/static/de/blog.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brainstormsecurity.github.io/static/blog.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/blog/post-2.html</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/blog/post-3.html</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/categories.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://brainstormsecurity.github.io/static/de/categories.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brainstormsecurity.github.io/static/categories.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/contact.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://brainstormsecurity.github.io/static/de/contact.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brainstormsecurity.github.io/static/contact.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/faq.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://brainstormsecurity.github.io/static/de/faq.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brainstormsecurity.github.io/static/faq.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/pricing.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://brainstormsecurity.github.io/static/de/pricing.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brainstormsecurity.github.io/static/pricing.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/privacy-policy.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://brainstormsecurity.github.io/static/de/privacy-policy.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brainstormsecurity.github.io/static/privacy-policy.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/tags.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://brainstormsecurity.github.io/static/de/tags.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brainstormsecurity.github.io/static/tags.html"
+                />
+  </url>
+  
+  <url>
+    <loc>https://brainstormsecurity.github.io/static/terms-conditions.html</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://brainstormsecurity.github.io/static/de/terms-conditions.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://brainstormsecurity.github.io/static/terms-conditions.html"
+                />
+  </url>
+  
+</urlset>
